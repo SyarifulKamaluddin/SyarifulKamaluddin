@@ -17,4 +17,5 @@
 - 🤓 Able to adapt to new technologies and learn quickly
 - 💪 Committed to producing high-quality, user-friendly products
 - 🌀 Passionate about staying up-to-date with industry trends and best practices
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
