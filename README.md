@@ -7,9 +7,7 @@
 - 🎨 Graphic & Website designer
 
 ## 🌟 About me:
-- 🐍 Proficient in programming languages such as Python
-- 💻 Skilled in web development frameworks such as JavaScript
-- 🌐 Experienced in using CSS frameworks such as Next.js
+- 🐍 Proficient in programming languages such as Python and JavaScript
 - 🔥 Skilled in MERN stack
 - 💅 Experienced in using CSS frameworks such as Tailwind CSS for design and layout
 - 🤔 Strong problem-solving and critical thinking skills
