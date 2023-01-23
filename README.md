@@ -1,9 +1,9 @@
 # 🌟 Hello, I'm Syariful Kamaluddin, a freelancer developer. 
 
 ## 🌟 I am the owner of [syaBytes](https://github.com/syaBytes) and skilled in the following areas:
-- 🐍 Python development
-- 🔥 MERN stack development
-- 🌐 Full stack web development
+- 🐍 Python developer
+- 🔥 MERN stack developer
+- 🌐 Full stack web developer
 - 🎨 Graphic & Website designer
 
 ## 🌟 About me:
