@@ -1,12 +1,12 @@
-# 🌟 Hello, I'm Syariful Kamaluddin, a freelancer developer. 
+## 🌟 Hello, I'm Syariful Kamaluddin, a freelancer developer. 
 
-## 🌟 I am the owner of [syaBytes](https://github.com/syaBytes) and skilled in the following areas:
+### 🌟 I am the owner of [syaBytes](https://github.com/syaBytes) and skilled in the following areas:
 - 🔥 T3 stack developer
 - 🌐 Full stack web developer
 - 🎨 Graphic & Website designer
 - 🐍 Python developer
 
-## 🌟 About me:
+### 🌟 About me:
 - 🐍 Proficient in programming languages such as Python and JavaScript
 - 🔥 Skilled in T3 stack
 - 💅 Experienced in using CSS frameworks such as Tailwind CSS for design and layout
