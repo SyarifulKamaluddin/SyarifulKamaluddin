@@ -4,7 +4,6 @@
 - 🔥 T3 stack developer
 - 🌐 Full stack web developer
 - 🎨 Graphic & Website designer
-- 🐍 Python developer
 
 ### 🌟 About me:
 - 🐍 Proficient in programming languages such as Python and JavaScript
@@ -16,4 +15,4 @@
 - 💪 Committed to producing high-quality, user-friendly products
 - 🌀 Passionate about staying up-to-date with industry trends and best practices
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sya08&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sya08&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
