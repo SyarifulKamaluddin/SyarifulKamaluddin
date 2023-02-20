@@ -15,4 +15,6 @@
 - 💪 Committed to producing high-quality, user-friendly products
 - 🌀 Passionate about staying up-to-date with industry trends and best practices
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sya08&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sya08&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
