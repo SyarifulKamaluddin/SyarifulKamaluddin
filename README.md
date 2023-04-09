@@ -1,7 +1,7 @@
 ## 🌟 Hello, 
 - I'm [Syariful Kamaluddin](https://linktr.ee/SyarifulKamaluddin), - Full Stack Developer 
-- Owner [syaBytes]
-(https://github.com/syaBytes). 
+- Owner [syaBytes](https://github.com/syaBytes).
+
 
 ### 🌟 Skilled in:
 - 🔥 T3 stack developer
