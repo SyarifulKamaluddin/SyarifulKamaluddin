@@ -1,6 +1,6 @@
 ## 🌟 Hello, I'm
 - [Syariful Kamaluddin](https://linktr.ee/SyarifulKamaluddin) 
-- Full Stack Developer 
+- Full Stack Developer & Designer 
 - Owner [syaBytes](https://github.com/syaBytes)
 
 
